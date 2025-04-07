@@ -33,3 +33,7 @@
 
 # IDE configs
 .vscode
+
+# build folders
+build/
+debug/
