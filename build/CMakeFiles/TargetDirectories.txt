@@ -1,0 +1,4 @@
+/home/asad/cpp/protobuf/build/CMakeFiles/genproto_lib.dir
+/home/asad/cpp/protobuf/build/CMakeFiles/protobuf.dir
+/home/asad/cpp/protobuf/build/CMakeFiles/edit_cache.dir
+/home/asad/cpp/protobuf/build/CMakeFiles/rebuild_cache.dir
