@@ -28,7 +28,7 @@ int main()
 
         Config config = Config::New();
         std::shared_ptr<OrderService> oService = std::make_shared<OrderService>();
-        g_server = std::make_unique<Server>(config.host + ":" + config.port, oService, order_service::v1::OrderService::service_full_name());
+        g_server = std::make_unique<Server>(config.host + ":" + config.port, oService, os::OrderService::service_full_name());
 
         std::thread shutdown_thread(
             [&]()
