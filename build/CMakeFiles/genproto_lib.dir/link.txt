@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgenproto_lib.a CMakeFiles/genproto_lib.dir/genproto/order_service/order.grpc.pb.cc.o CMakeFiles/genproto_lib.dir/genproto/order_service/order.pb.cc.o
-/usr/bin/ranlib libgenproto_lib.a
